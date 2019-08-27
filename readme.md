@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The [2017 Bay Wheels Bikesharing Data](https://www.lyft.com/bikes/bay-wheels/system-data) 
+The [2017 Bay Wheels Bikesharing Data](https://www.lyft.com/bikes/bay-wheels/system-data) 
 provided by Lyft contains anonymized trip information for over 500,000 bike rides this year. 
 [Bay Wheels](https://blog.lyft.com/posts/introducing-bay-wheels-new-bikes-and-a-new-name) is 
 the latest hybrid e-bike offering by Lyft to get around the San Francisco Bay Area on two wheels. 
@@ -21,7 +21,7 @@ program was established.
 
 ## Summary of Findings
 
-> In the exploration, we found that a large part of the behavioural use and demographic user base 
+In the exploration, we found that a large part of the behavioural use and demographic user base 
 of Bay Wheels is associated with the working adult group in San Francisco. A couple key insights lead
 to this observations. For one, bikeshare trip durations are mostly very short, with a median of only 
 10 minutes. The mean age of the user base is 38 and hovers mainly around the age range of 30-35. 
@@ -41,7 +41,7 @@ Bikesharing is used much more for convenient transportatino and less for sports 
 
 ## Key Insights for Presentation
 
-> For the presentation, I focused primarily on the gender makeup of the Bay Wheels program and
+For the presentation, I focused primarily on the gender makeup of the Bay Wheels program and
 how that can be crossed with user type information to reveal the rather prevalent trend of the
 dominany male technology industry in San Fransisco. I start by sharing a pie chart that visualizes
 the 4:1 male to female ratio in the program overall. My second visualization is a two-bar 
